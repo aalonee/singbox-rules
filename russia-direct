@@ -15,7 +15,7 @@
       "RuntimeBroker_rustdesk.exe",
       "pwsh.exe",
       "cmd.exe",
-      "Tanki.exe",
+      "Tanki.exe"
     ],
     "enabled": true,
     "remarks": "APPS DIRECT"
