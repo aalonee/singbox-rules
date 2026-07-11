@@ -2,7 +2,7 @@
   {
     "outboundTag": "proxy",
     "process": [
-      "RobloxPlayerBeta.exe"`
+      "RobloxPlayerBeta.exe"
     ],
     "enabled": true,
     "remarks": "APPS PROXY"
