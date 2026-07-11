@@ -2,7 +2,7 @@
   {
     "outboundTag": "proxy",
     "process": [
-      "RobloxPlayerBeta.exe"
+      "RobloxPlayerBeta.exe"`
     ],
     "enabled": true,
     "remarks": "APPS PROXY"
@@ -12,7 +12,6 @@
     "process": [
       "Termius.exe",
       "rustdesk.exe",
-      "RuntimeBroker_rustdesk.exe",
       "pwsh.exe",
       "cmd.exe",
       "Tanki.exe"
@@ -23,7 +22,8 @@
   {
     "outboundTag": "direct",
     "ip": [
-      "geoip:ru"
+      "geoip:ru",
+      "193.233.86.158"
     ],
     "enabled": true,
     "remarks": "IP DIRECT"
@@ -35,7 +35,8 @@
       "regexp:.*\\.xn--p1ai$",
       "rockstargames.com",
       "microsoft.com.",
-      "xn--rl8hlm.tk"
+      "xn--rl8hlm.tk",
+      "vk.com"
     ],
     "enabled": true,
     "remarks": "DOMAIN DIRECT"
