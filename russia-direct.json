@@ -1,5 +1,13 @@
 [
   {
+    "outboundTag": "direct",
+    "domain": [
+      "rockstargames.com"
+    ],
+    "enabled": true,
+    "remarks": "DOMAIN PROXY"
+  },
+  {
     "outboundTag": "proxy",
     "process": [
       "RobloxPlayerBeta.exe"
